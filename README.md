@@ -1,11 +1,7 @@
 # NoteShare 
 
-NoteShare is a modern, full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) and TypeScript. It provides a clean and intuitive user experience with a focus on speed, simplicity, and seamless collaboration.
-
+NoteShare is a modern, full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) and TypeScript.
 ---
-
-
-
 
 
 <p align="center">
@@ -17,10 +13,10 @@ NoteShare is a modern, full-stack web application built with the MERN stack (Mon
 
 ## Prerequisites
 
-Before you begin, ensure you have the following installed on your system:
 
-- [Node.js](https://nodejs.org/) (v16 or later recommended)
-- [npm](https://www.npmjs.com/) (usually comes with Node.js)
+
+- [Node.js](https://nodejs.org/) 
+- [npm](https://www.npmjs.com/) ( Node.js)
 - [Git](https://git-scm.com/)
 - A **MongoDB Atlas** account for the database. You will need a connection string.
 
