@@ -9,7 +9,7 @@ NoteShare is a modern, full-stack web application built with the MERN stack (Mon
 Below is a preview of the application's homepage and dashboard.
 
 <p align="center">
-  <img alt="Screenshot of the NoteShare Application" src="./notes-app-frontend/src/assets/picture.png" width="80%">
+  <img alt="Screenshot of the NoteShare Application" src="./notes-app-forntend/src/assets/picture.png" width="80%">
 </p>
 
 > **Note:** For the image to display correctly on GitHub, ensure the `picture.png` file exists in the `notes-app-frontend/src/assets/` folder of your repository. If it doesn't work, uploading the image to GitHub and using its raw URL is a reliable alternative.
@@ -107,5 +107,15 @@ To run the application, you will need **two separate terminal windows** open sim
 cd notes-app-backend
 
 # Start the server
+npm run dev
+```
+
+### Terminal 2: Start the Frontend Development Server
+
+```bash
+# Navigate to the frontend folder
+cd notes-app-frontend
+
+# Start the development server
 npm run dev
 ```
