@@ -1,42 +1,19 @@
-# NoteShare - A Full-Stack Note-Sharing Application
+# NoteShare 
 
 NoteShare is a modern, full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) and TypeScript. It provides a clean and intuitive user experience with a focus on speed, simplicity, and seamless collaboration.
 
 ---
 
-## 💻 Demo & Screenshot
 
-Below is a preview of the application's homepage and dashboard.
+
+
 
 <p align="center">
   <img alt="Screenshot of the NoteShare Application" src="./notes-app-forntend/src/assets/picture.png" width="80%">
 </p>
 
-> **Note:** For the image to display correctly on GitHub, ensure the `picture.png` file exists in the `notes-app-frontend/src/assets/` folder of your repository. If it doesn't work, uploading the image to GitHub and using its raw URL is a reliable alternative.
 
----
 
-## ✨ Features
-
-- **Secure User Authentication:** JWT (JSON Web Token) based registration and login.
-- **Full Note Management (CRUD):** Users can easily create, read, update, and delete their notes.
-- **Note Sharing System:** Securely share notes with any other registered user via username.
-- **Organized Workspace:** Separate, dedicated pages for "My Notes" and "Shared With Me."
-- **Live Client-Side Search:** Instantly filter notes by title or content.
-- **Professional UI/UX:** A modern interface with a beautiful "Aurora" theme, toast notifications, and a responsive design.
-
----
-
-## 🛠️ Tech Stack
-
-| Category     | Technology                                             |
-| :----------- | :----------------------------------------------------- |
-| **Frontend** | React 18, Vite, TypeScript, Tailwind CSS, React Router |
-| **Backend**  | Node.js, Express.js, TypeScript, JWT, Bcrypt.js        |
-| **Database** | MongoDB Atlas, Mongoose                                |
-| **Tooling**  | Axios, Git, GitHub, Prettier                           |
-
----
 
 ## Prerequisites
 
@@ -49,7 +26,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ---
 
-## 🚀 Setup and Installation
+##  Setup and Installation
 
 Follow these steps to get your local development environment set up.
 
@@ -96,7 +73,7 @@ Follow these steps to get your local development environment set up.
 
 ---
 
-## ▶️ Running the Application
+##  Running the Application
 
 To run the application, you will need **two separate terminal windows** open simultaneously.
 
@@ -119,3 +96,4 @@ cd notes-app-frontend
 # Start the development server
 npm run dev
 ```
+ Now the Application 
